@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Earls-MacBook-Pro.local" name="com.coffeemate.JoinNowExistingLogin" tests="1" time="16.833" timestamp="2013-07-04T11:11:13">
+  <properties>
+    <property name="java.vendor" value="Apple Inc." />
+    <property name="env.JAVA_MAIN_CLASS_1736" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar" />
+    <property name="env.TMPDIR" value="/var/folders/pd/9b4rnjds24qfn9vgctykl9dm0000gn/T/" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="ant.home" value="/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300" />
+    <property name="java.runtime.version" value="1.6.0_26-b03-383-11A511" />
+    <property name="env.Apple_PubSub_Socket_Render" value="/tmp/launch-H42RJq/Render" />
+    <property name="env.DISPLAY" value="/tmp/launch-himz2B/org.x:0" />
+    <property name="user.name" value="earlwillis" />
+    <property name="env.USER" value="earlwillis" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0:0" />
+    <property name="awt.nativeDoubleBuffering" value="true" />
+    <property name="env.JAVA_STARTED_ON_FIRST_THREAD_1736" value="1" />
+    <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="CoffeeMate" />
+    <property name="java.version" value="1.6.0_26" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="MacRoman" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="50.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.LOGNAME" value="earlwillis" />
+    <property name="ant.file" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+    <property name="os.version" value="10.7" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="20.1-b02-383" />
+    <property name="ant.library.dir" value="/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib" />
+    <property name="env.JAVA_STARTED_ON_FIRST_THREAD_373" value="1" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="apple.awt.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="apple.awt.CToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="user.home" value="/Users/earlwillis" />
+    <property name="target" value="1.6" />
+    <property name="ant.file.type.CoffeeMate" value="file" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="java.library.path" value=".:/Users/earlwillis/Library/Java/Extensions:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="java.vendor.url" value="http://www.apple.com/" />
+    <property name="java.vm.vendor" value="Apple Inc." />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.coffeemate.JoinNowExistingLogin filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/earlwillis/Documents/workspace/CoffeeMate/junit/TEST-com.coffeemate.JoinNowExistingLogin.xml crashfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junitvmwatcher4362411078341365086.properties propsfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junit7261428015951845443.properties" />
+    <property name="java.class.path" value="/Users/earlwillis/Documents/workspace/CoffeeMate/bin:/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar:/Users/earlwillis/Downloads/junit-4.10.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-launcher.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit4.jar" />
+    <property name="ant.file.CoffeeMate" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+    <property name="env.com.apple.java.jvmMode" value="client" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.HOME" value="/Users/earlwillis" />
+    <property name="env.ANT_HOME" value="/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300" />
+    <property name="java.io.tmpdir" value="/var/folders/pd/9b4rnjds24qfn9vgctykl9dm0000gn/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.apple.com/" />
+    <property name="env.SSH_AUTH_SOCK" value="/tmp/launch-eU3nO2/Listeners" />
+    <property name="env.COMMAND_MODE" value="unix2003" />
+    <property name="mrj.build" value="11A511" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/Users/earlwillis/Library/Java/Extensions:/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext" />
+    <property name="user.dir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+    <property name="env.com.apple.java.jvmTask" value="JNI.java" />
+    <property name="mrj.version" value="1070.1.6.0_26-383" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="ant.core.lib" value="/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar" />
+    <property name="source" value="1.6" />
+    <property name="file.encoding" value="MacRoman" />
+    <property name="env.APP_ICON_373" value="../Resources/Eclipse.icns" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="ant.project.invoked-targets" value="build,CoffeeMateLoginNew,JoinNowExistingLogin,JoinTestValidationMessaging,junitreport" />
+  </properties>
+  <testcase classname="com.coffeemate.JoinNowExistingLogin" name="testJoinNowExisting" time="16.545" />
+  <system-out><![CDATA[This test case will verify that when a user tries to log-in as an existing user with an existing. User will see Error Message "This email address already exists in our system. Please choose a different email address."
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
