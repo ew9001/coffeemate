@@ -33,6 +33,7 @@ public class CoffeeMateLoginNew {
     driver.findElement(By.name("ctl00$ucJoinNowMain$txtSignInEmail")).sendKeys("earl.willis@publicismodem.com");
     driver.findElement(By.name("ctl00$ucJoinNowMain$txtSignInPassword")).clear();
     driver.findElement(By.name("ctl00$ucJoinNowMain$txtSignInPassword")).sendKeys("zaq12wsx");
+    System.out.println("Login: earl.willis@publicismodem.com | Password:zaq12wsx");
     driver.findElement(By.id("ctl00_ucJoinNowMain_btnSignIn")).click();
     // Warning: waitForTextPresent may require manual changes
     for (int second = 0;; second++) {
