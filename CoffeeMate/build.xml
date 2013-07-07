@@ -16,13 +16,7 @@
         <pathelement location="../../../Downloads/junit-4.10.jar"/>
     </path>
 
-	<path id="test.classpath">
-	  <pathelement location="${classes}" />
-	  <pathelement location="../../../Downloads/junit-4.10.jar" />
-	  <fileset dir="${lib}">
-	    <include name="../../../Downloads/junit-4.10.jar"/>
-	  </fileset>
-	</path>
+
 
     <target name="init">
         <mkdir dir="bin"/>
