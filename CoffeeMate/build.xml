@@ -11,9 +11,7 @@
     <property name="target" value="1.6"/>
     <property name="source" value="1.6"/>
 	
-	<path id="classPath">
-	    <pathelement location="../../../Downloads/junit-4.10.jar" />
-	</path>	
+
 	
     <path id="CoffeeMate.classpath">
    		<pathelement location="bin"/>
