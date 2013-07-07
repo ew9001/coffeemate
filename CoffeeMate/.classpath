@@ -3,7 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar"/>
-	<classpathentry kind="lib" path="/Users/earlwillis/Downloads/junit-4.10.jar"/>
 	<classpathentry kind="lib" path="/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/junit-4.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
