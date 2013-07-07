@@ -24,29 +24,7 @@
             </fileset>
         </copy>
     </target>
-	
-
-	<target name="install.junit">
-	    <fail unless="env.JUNIT_HOME">
-	      The JUNIT_HOME environment variable must be set.
-	    </fail>
-
-	    <available property="junit.already.installed"
-	               file="${ant.home}/lib/junit.jar"/>
-
-	    <copy file="${env.JUNIT_HOME}/junit.jar"
-	          todir="${ant.home}/lib"
-	          failonerror="true"/>
-	   
-	    <fail unless="junit.already.installed">
-	      junit.jar was not found in ANT_HOME/lib prior to this 
-	      build, so it was copied for you. Please try your build again.
-	    </fail>
-	  </target>
-
-	
-	
-    <target name="clean">
+	<target name="clean">
         <delete dir="bin"/>
     </target>
     <target depends="clean" name="cleanall"/>

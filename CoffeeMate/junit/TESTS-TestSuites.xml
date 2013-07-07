@@ -196,11 +196,9 @@
       <system-err><![CDATA[]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Earls-MacBook-Pro.local" id="1" name="JoinNowExistingLogin" package="com.coffeemate" tests="1" time="16.833" timestamp="2013-07-04T11:11:13">
+  <testsuite errors="0" failures="0" hostname="Earls-MacBook-Pro.local" id="1" name="JoinNowExistingLogin" package="com.coffeemate" tests="1" time="21.565" timestamp="2013-07-05T05:17:03">
       <properties>
           <property name="java.vendor" value="Apple Inc." />
-
-          <property name="env.JAVA_MAIN_CLASS_1736" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
 
           <property name="sun.java.launcher" value="SUN_STANDARD" />
 
@@ -232,7 +230,7 @@
 
           <property name="awt.nativeDoubleBuffering" value="true" />
 
-          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_1736" value="1" />
+          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_63391" value="1" />
 
           <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin" />
 
@@ -266,6 +264,8 @@
 
           <property name="java.class.version" value="50.0" />
 
+          <property name="env.JAVA_MAIN_CLASS_63391" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
+
           <property name="user.country" value="US" />
 
           <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
@@ -274,7 +274,7 @@
 
           <property name="env.LOGNAME" value="earlwillis" />
 
-          <property name="ant.file" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+          <property name="ant.file" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/build.xml" />
 
           <property name="os.version" value="10.7" />
 
@@ -316,11 +316,11 @@
 
           <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.coffeemate.JoinNowExistingLogin filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/earlwillis/Documents/workspace/CoffeeMate/junit/TEST-com.coffeemate.JoinNowExistingLogin.xml crashfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junitvmwatcher4362411078341365086.properties propsfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junit7261428015951845443.properties" />
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.coffeemate.JoinNowExistingLogin filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/earlwillis/git/CoffeeMate/CoffeeMate/junit/TEST-com.coffeemate.JoinNowExistingLogin.xml crashfile=/Users/earlwillis/git/CoffeeMate/CoffeeMate/junitvmwatcher112004710829477882.properties propsfile=/Users/earlwillis/git/CoffeeMate/CoffeeMate/junit4975558930523171473.properties" />
 
-          <property name="java.class.path" value="/Users/earlwillis/Documents/workspace/CoffeeMate/bin:/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar:/Users/earlwillis/Downloads/junit-4.10.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-launcher.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit4.jar" />
+          <property name="java.class.path" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/bin:/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar:/Users/earlwillis/Downloads/junit-4.10.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-launcher.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit4.jar" />
 
-          <property name="ant.file.CoffeeMate" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+          <property name="ant.file.CoffeeMate" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/build.xml" />
 
           <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
 
@@ -356,7 +356,7 @@
 
           <property name="java.ext.dirs" value="/Users/earlwillis/Library/Java/Extensions:/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext" />
 
-          <property name="user.dir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+          <property name="user.dir" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate" />
 
           <property name="env.com.apple.java.jvmTask" value="JNI.java" />
 
@@ -366,7 +366,7 @@
 
           <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
 
-          <property name="basedir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+          <property name="basedir" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate" />
 
           <property name="ant.java.version" value="1.6" />
 
@@ -380,11 +380,11 @@
 
           <property name="java.specification.version" value="1.6" />
 
-          <property name="ant.project.invoked-targets" value="build,CoffeeMateLoginNew,JoinNowExistingLogin,JoinTestValidationMessaging,junitreport" />
+          <property name="ant.project.invoked-targets" value="build-project,JoinTestValidationMessaging,JoinNowExistingLogin,junitreport" />
 
       </properties>
 
-      <testcase classname="com.coffeemate.JoinNowExistingLogin" name="testJoinNowExisting" time="16.545" />
+      <testcase classname="com.coffeemate.JoinNowExistingLogin" name="testJoinNowExisting" time="21.141" />
 
       <system-out><![CDATA[This test case will verify that when a user tries to log-in as an existing user with an existing. User will see Error Message "This email address already exists in our system. Please choose a different email address."
 ]]></system-out>
@@ -392,11 +392,9 @@
       <system-err><![CDATA[]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Earls-MacBook-Pro.local" id="2" name="JoinTestValidationMessaging" package="com.coffeemate" tests="1" time="14.527" timestamp="2013-07-04T11:11:30">
+  <testsuite errors="0" failures="0" hostname="Earls-MacBook-Pro.local" id="2" name="JoinTestValidationMessaging" package="com.coffeemate" tests="1" time="92.658" timestamp="2013-07-05T05:15:26">
       <properties>
           <property name="java.vendor" value="Apple Inc." />
-
-          <property name="env.JAVA_MAIN_CLASS_1736" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
 
           <property name="sun.java.launcher" value="SUN_STANDARD" />
 
@@ -428,7 +426,7 @@
 
           <property name="awt.nativeDoubleBuffering" value="true" />
 
-          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_1736" value="1" />
+          <property name="env.JAVA_STARTED_ON_FIRST_THREAD_63391" value="1" />
 
           <property name="env.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin" />
 
@@ -462,6 +460,8 @@
 
           <property name="java.class.version" value="50.0" />
 
+          <property name="env.JAVA_MAIN_CLASS_63391" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner" />
+
           <property name="user.country" value="US" />
 
           <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
@@ -470,7 +470,7 @@
 
           <property name="env.LOGNAME" value="earlwillis" />
 
-          <property name="ant.file" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+          <property name="ant.file" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/build.xml" />
 
           <property name="os.version" value="10.7" />
 
@@ -512,11 +512,11 @@
 
           <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.coffeemate.JoinTestValidationMessaging filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/earlwillis/Documents/workspace/CoffeeMate/junit/TEST-com.coffeemate.JoinTestValidationMessaging.xml crashfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junitvmwatcher1859851259525062392.properties propsfile=/Users/earlwillis/Documents/workspace/CoffeeMate/junit6023561001743567032.properties" />
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.coffeemate.JoinTestValidationMessaging filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/earlwillis/git/CoffeeMate/CoffeeMate/junit/TEST-com.coffeemate.JoinTestValidationMessaging.xml crashfile=/Users/earlwillis/git/CoffeeMate/CoffeeMate/junitvmwatcher7657405699977949897.properties propsfile=/Users/earlwillis/git/CoffeeMate/CoffeeMate/junit6752168734384825083.properties" />
 
-          <property name="java.class.path" value="/Users/earlwillis/Documents/workspace/CoffeeMate/bin:/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar:/Users/earlwillis/Downloads/junit-4.10.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-launcher.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit4.jar" />
+          <property name="java.class.path" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/bin:/Users/earlwillis/Downloads/selenium-server-standalone-2.25.0.jar:/Users/earlwillis/Downloads/junit-4.10.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-launcher.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit.jar:/Users/earlwillis/Downloads/eclipse/plugins/org.apache.ant_1.8.2.v20110505-1300/lib/ant-junit4.jar" />
 
-          <property name="ant.file.CoffeeMate" value="/Users/earlwillis/Documents/workspace/CoffeeMate/build.xml" />
+          <property name="ant.file.CoffeeMate" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate/build.xml" />
 
           <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
 
@@ -552,7 +552,7 @@
 
           <property name="java.ext.dirs" value="/Users/earlwillis/Library/Java/Extensions:/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext" />
 
-          <property name="user.dir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+          <property name="user.dir" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate" />
 
           <property name="env.com.apple.java.jvmTask" value="JNI.java" />
 
@@ -562,7 +562,7 @@
 
           <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
 
-          <property name="basedir" value="/Users/earlwillis/Documents/workspace/CoffeeMate" />
+          <property name="basedir" value="/Users/earlwillis/git/CoffeeMate/CoffeeMate" />
 
           <property name="ant.java.version" value="1.6" />
 
@@ -576,11 +576,11 @@
 
           <property name="java.specification.version" value="1.6" />
 
-          <property name="ant.project.invoked-targets" value="build,CoffeeMateLoginNew,JoinNowExistingLogin,JoinTestValidationMessaging,junitreport" />
+          <property name="ant.project.invoked-targets" value="build-project,JoinTestValidationMessaging,JoinNowExistingLogin,junitreport" />
 
       </properties>
 
-      <testcase classname="com.coffeemate.JoinTestValidationMessaging" name="testJoinValidationMessaging" time="14.376" />
+      <testcase classname="com.coffeemate.JoinTestValidationMessaging" name="testJoinValidationMessaging" time="92.398" />
 
       <system-out><![CDATA[This test case will verify that when a user clicks on the Submit Button with null values. The user will be presented with all error messaging for all required fields
 ]]></system-out>
