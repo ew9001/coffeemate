@@ -15,9 +15,7 @@
         <pathelement location="../../../Downloads/selenium-server-standalone-2.25.0.jar"/>
         <pathelement location="../../../Downloads/junit-4.10.jar"/>
     </path>
-	<classpath>
-        		<pathelement location="./lib/junit.jar" path="../../../Downloads/junit-4.10.jar"/>
-        	</classpath>
+
 
     <target name="init">
         <mkdir dir="bin"/>
